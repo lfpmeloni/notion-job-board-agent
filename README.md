@@ -2,7 +2,7 @@
 
 An agent that reads job descriptions from a Notion page, interprets key details using ChatGPT, and automatically creates a new card with the extracted information on a job application board in Notion.
 
-<https://youtu.be/ehR9-pIjtW0>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ehR9-pIjtW0/0.jpg)](https://www.youtube.com/watch?v=ehR9-pIjtW0)
 
 ## Features
 
